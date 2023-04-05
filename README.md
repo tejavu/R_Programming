@@ -1,2 +1,2 @@
-# R_Programming
+# R Programming
 Introduction to R 
